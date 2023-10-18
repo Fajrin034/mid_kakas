@@ -1,2 +1,3 @@
 # mid_kakas
-qomtol
+fajrin
+
